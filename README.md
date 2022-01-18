@@ -1,0 +1,2 @@
+# Project-1
+Project 1 ini memuat source code Arduino untuk membangun sebuah alat pendeteksi ketinggian air (dalam kasus ini dibangun sebagai alarm banjir). Project 1 ini seharusnya di rancang pada saat KKN UNILA Periode 1 Tahun 2021, namun saat itu sedang ramai kasus COVID 19 sehingga KKN terdapat perubahan konsep KKN. Meskipun begitu, semoga source code ini dapat bermanfaat bagi yang ingin merancang alat yang serupa dengan alat yang saya bangun ini.
