@@ -13,6 +13,6 @@ Pada project ini saya menggunakan alat dan bahan sebagai berikut :
 
 Ucapan terima kasih saya tunjukkan kepada :
 1. Kak Tomi yang telah membantu saya dalam merancang alat ini dari awal, dan mengajarkan kepada saya tentang prinsip kerja dari mikrokontroler.
-2. Teman - Teman KKN Periode I Tahun 2021: Kak Dimas Rizqy Pratama, Maghgribi Anjas Ramadhan, Sherly Nova Viona, Yuni Anjelita Br Sipayung, Anggi Anggraeni  yang telah membantu dan menyemangati selama perancangan alat.
+2. Teman - Teman KKN Periode I Tahun 2021: Kak Dimas Rizqy Pratama, Maghgribi Anjas Ramadhan, Sherly Nova Viona, Siti Hani Rahmadanti, Yuni Anjelita Br Sipayung, Anggi Anggraeni  yang telah membantu dan menyemangati selama perancangan alat.
 3. Paman Yusuf yang telah membantu saya dalam menyolder rangkaian ini pada PCB.
 4. Kedua Orang Tua saya, yang telah membantu dan menyemangati selama perancangan alat.
